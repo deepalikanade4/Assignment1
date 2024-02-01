@@ -1,0 +1,56 @@
+[
+ {
+  "ID": 1001,
+  "Username": "Deepakanade",
+  "Email": "deepalikanade@gmail.com",
+  "Designation": "software Developer"
+ },
+ {
+  "ID": 102,
+  "Username": "Rupalikanade",
+  "Email": "Rupalikanade@gmail.com",
+  "Designation": "HR"
+ },
+ {
+  "ID": 103,
+  "Username": "sontakke",
+  "Email": "sontakke@gmail.com",
+  "Designation": "software Developer"
+ },
+ {
+  "ID": 104,
+  "Username": "",
+  "Email": "Example@gmail.com",
+  "Designation": "HR"
+ },
+ {
+  "ID": 105,
+  "Username": "pooja",
+  "Email": "pooja@gmail.com",
+  "Designation": ""
+ },
+ {
+  "ID": 106,
+  "Username": "rahul",
+  "Email": "rahul@gmail.com",
+  "Designation": "Team Lead"
+ },
+ {
+  "ID": 107,
+  "Username": "deepalikanade",
+  "Email": "",
+  "Designation": "software Developer"
+ },
+ {
+  "ID": 108,
+  "Username": "vidya",
+  "Email": "vidya@gmail.com",
+  "Designation": "Python Developer"
+ },
+ {
+  "ID": 109,
+  "Username": "mahesh",
+  "Email": "mahesh@gmail.com",
+  "Designation": "software Developer"
+ }
+]
