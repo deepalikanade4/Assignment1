@@ -1,5 +1,5 @@
 
-# comand to run = python Assignment1.py 'C:\Users\Readchilly_task\Assignment1\Userdata.csv'
+# comand to run = python Assignment1.py --csv_path 'C:\Users\Readchilly_task\Assignment1\Userdata.csv'
 # pls give path for csv file
 
 
@@ -13,7 +13,7 @@ class JsonWriter:
     
     # thid 'readfile_to_json' function read csv file and parse data to json format and save file in same project folder
 
-    def readfile_to_json(csvfile):
+    def readfile_to_json(self,csvfile):
         Usersdata=list()
     
         with open(csvfile,'r') as f:
